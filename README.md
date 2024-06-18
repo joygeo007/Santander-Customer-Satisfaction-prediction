@@ -1,2 +1,2 @@
 # AI-1-Project
-![Project Poster](poster.jpg)
+![Project Poster](poster1.jpg)

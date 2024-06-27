@@ -89,4 +89,6 @@ This project aims to predict customer satisfaction for Santander bank using vari
 ---
 
 This project demonstrates a comprehensive approach to a real-world machine learning problem, addressing challenges like class imbalance and feature selection in a large dataset. It showcases skills in data preprocessing, model selection, and performance evaluation in the context of customer satisfaction prediction.
+<br>
+<br>
 ![Project Poster](poster1.png)
